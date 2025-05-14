@@ -1,0 +1,2 @@
+# political-sentiment-index
+AI-powered political sentiment analysis from news articles using HuggingFace models.
