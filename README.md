@@ -14,8 +14,7 @@ political-sentiment-index/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/political-sentiment-index.git
-cd political-sentiment-index
+git clone https://github.com/nestorojas/media-sentiment-analysis.git
 
 2. Set Up a Virtual Environment
 using conda:
